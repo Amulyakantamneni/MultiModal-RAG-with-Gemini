@@ -13,7 +13,8 @@ This is a powerful multimodal Retrieval-Augmented Generation (RAG) application b
 
 ## 🎥 Demo
 
-https://github.com/Amulyakantamneni/MultiModal-RAG-with-Gemini/assets/demo.mp4
+https://github.com/user-attachments/assets/1ca53049-62c2-4d01-989a-6a0f26378982
+
 
 Watch the demo video above to see the application in action! The video showcases:
 - PDF document processing and analysis
